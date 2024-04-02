@@ -1,0 +1,19 @@
+A is component where we put (name, surname, address)
+
+class A extends React.Component
+{
+	// 1. Properties
+		When we use class component then we put the data in state object
+	
+		state={};
+		
+	// 2. Constructor()
+		{
+		  // Responsibility of constructor is to initialize your property
+		
+		this.state = {}
+
+		}
+
+	// 3. Method
+}

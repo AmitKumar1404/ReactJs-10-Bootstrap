@@ -1,0 +1,12 @@
+header,footer{
+    height: 70px;
+    background-color: #7432F9;
+    border: 1px dashed red;
+}
+main{
+    height: 1000px;
+    border: 5px dashed green;
+}
+.a_cont{
+    border: 5px dashed blue;
+}
