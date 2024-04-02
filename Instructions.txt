@@ -1,4 +1,4 @@
-A is component where we put (name, surname, address)
+Suppose, A is component where we put (name, surname, address)
 
 class A extends React.Component
 {
